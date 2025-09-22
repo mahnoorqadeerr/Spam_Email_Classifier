@@ -91,6 +91,3 @@ pip install pandas numpy scikit-learn nltk wordcloud matplotlib seaborn
 
 **Mahnoor Qadeer**  
 Aspiring AI student passionate about NLP, ethical machine learning, and building real-world projects for global impact.
-```
-
-
